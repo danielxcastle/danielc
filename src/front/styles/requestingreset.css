@@ -1,0 +1,12 @@
+.flex{
+  display:flex;
+  justify-content: center;
+
+}
+button{
+  background: #5100FF;
+  
+  color:white;
+
+}
+

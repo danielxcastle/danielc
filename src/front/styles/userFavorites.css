@@ -1,0 +1,34 @@
+/* userFavorites.css */
+
+.listItem {
+  border: 2px solid rgb(230, 0, 255); /* Add a white border */
+  background-color: rgb(50, 16, 121);
+  color: white;
+  font-weight: 300;
+  }
+  .listItem a{
+    color: white;
+    font-weight: 700;
+  }
+.container-class {
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(230, 0, 255);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  color: white;
+}
+.container-class a {
+  color: #96f3f8;
+}
+.titleBox {
+  width: 100%;
+  padding: 30px;
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
+
+.trash-btn {
+  color: white;
+  font-weight: 700;
+}
